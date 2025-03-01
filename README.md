@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning to relax
 - 💞️ I’m looking for the summer
 - 📫 How to reach me ? - Leave comments 
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: From May to November, I only get off my Toro Groundmaster 7210 on weekends!
 
 <!---
