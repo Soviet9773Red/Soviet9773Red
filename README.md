@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Soviet<sup>&#9773;</sup>Red
+- 👋 Hi, I’m @Soviet<sup>&#9773;&trade;</sup>Red
 - 👀 I’m interested in [Shelly](https://shelly-api-docs.shelly.cloud/)
 - 🌱 I’m currently learning to relax
 - 💞️ I’m looking for the summer
