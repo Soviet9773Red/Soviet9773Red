@@ -2,7 +2,7 @@
 - 👀 I’m interested in [Shelly](https://shelly-api-docs.shelly.cloud/), Raspberry Pi, Node.js, and AI  
 - 🌱 I’m currently learning to relax  
 - 💞️ I’m looking for the summer  
-- 📫 How to reach me? Leave a comment  
+- 📫 How to reach me? Leave a comment or email **contact@elpris.eu**   
 - ⚡ Fun fact: From May to November, I only get off my [Toro 7210](https://www.toro.com/sv-se/product/Groundsmaster-7200-Series?srsltid=AfmBOorxtL-O4wjFdyWzgt_ytae0MkpTCl99a45GnxuOX6q70H5nOqiZ) on weekends  
 - 🔌 The mind behind [elpris.eu](https://elpris.eu/) - making Shelly devices smarter about electricity prices
 
